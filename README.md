@@ -9,6 +9,8 @@
 <br>∆ Data Science
 <br>∆ Mern Stack
 <br>∆ AI & ML
+<br>∆ UI/UX Design
+<br>∆ Cloud Computing
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
 
