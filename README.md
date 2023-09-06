@@ -26,7 +26,7 @@
 <br>Tamil</h3>
 <h2 align="left">lets Connect 🤝</h>
 <p align="left">
-<a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
+<a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nampallyharish" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nampally harish" height="30" width="40" /></a>
 <a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
