@@ -18,7 +18,10 @@
 
 - ⚡ Fun fact about me: **I Think I'm Funny.But Not,Because I'm Introvert🤪**
 <h2 align="left">Speaks</h2>
-English,Telugu,Hindi,Tamil
+<br>English
+<br>Telugu
+<br>Hindi
+<br>Tamil
 <h2 align="left">lets Connect 🤝</h>
 <p align="left">
 <a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
