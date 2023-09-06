@@ -18,8 +18,9 @@
 - 📫 You can dm me at **nampallyharish5544@gmail.com**
 
 - ⚡ Fun fact about me: **I Think I'm Funny.But Not,Because I'm Introvert🤪**
-<h2>Speaks</h2>
-<h3>English
+
+<h3>Speaks
+<br>English
 <br>Telugu
 <br>Hindi
 <br>Tamil</h3>
