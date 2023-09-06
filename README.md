@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://twitter.com/nampallyharish6" target="blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
 <h2 align="center">🔥Updates</h2>
 • 🌱 I’m currently learning
-<br>Full Stack Web Development
-<br>Ethical Hacking
-<br>Data Science
-<br>Mern Stack
-<br>AI & ML
+<br>∆ Full Stack Web Development
+<br>∆ Ethical Hacking
+<br>∆ Data Science
+<br>∆ Mern Stack
+<br>∆ AI & ML
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
 
