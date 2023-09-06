@@ -3,7 +3,12 @@
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/nampallyharish6" target="blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
 <h2 align="left">🔥Updates</h2>
-- 🌱 I’m currently learning Ethical Hacking,Data Science,AI & ML,Full Stack Developement
+- 🌱 I’m currently learning
+                  - Full Stack Web Development
+                  - Ethical Hacking
+                  - Data Science
+                  - Mern Stack
+                  - AI & ML
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
 
