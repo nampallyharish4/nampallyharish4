@@ -10,7 +10,8 @@
 - 📫 You can dm me at **nampallyharish5544@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Funny,But Not Because I'm Introvert🤪**
-
+<h2 align="left">Speaks</h>
+<h1 align="left">English,Telugu,Hindi,Tamil</h>
 <h2 align="left">lets Connect 🤝</h>
 <p align="left">
 <a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
