@@ -24,6 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nampallyharish4&show_icons=true&locale=en&layout=compact" alt="nampallyharish4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&locale=en" alt="nampallyharish4" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&locale=en" alt="nampallyharish4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nampallyharish4&" alt="nampallyharish4" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nampallyharish4&" alt="nampallyharish4" /></p>
