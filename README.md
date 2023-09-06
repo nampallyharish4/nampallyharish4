@@ -5,6 +5,7 @@
 <h2 align="left">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
+<br>∆ Prompt Engineering
 <br>∆ Ethical Hacking
 <br>∆ Data Science
 <br>∆ Mern Stack
