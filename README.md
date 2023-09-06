@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact about me: **I Think I'm Funny.But Not,Because I'm Introvert🤪**
 <h2>Speaks</h2>
-<br>English
+English
 <br>Telugu
 <br>Hindi
 <br>Tamil
