@@ -53,4 +53,5 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="mysql.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="oracle.svg" alt="oracle" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="canva.svg" alt="canva" width="40" height="40"/> </a>
 </p>
