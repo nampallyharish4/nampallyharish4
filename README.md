@@ -8,7 +8,7 @@
 <br>∆ Prompt Engineering
 <br>∆ Ethical Hacking
 <br>∆ Data Science
-<br>∆ Mern Stack
+<br>∆ MERN Stack
 <br>∆ AI & ML
 <br>∆ UI/UX Design
 <br>∆ Cloud Computing</h3>
@@ -17,7 +17,7 @@
 
 - 📫 You can dm me at **nampallyharish5544@gmail.com**
 
-- ⚡ Fun fact about me: **I Think I'm Funny.But Not,Because I'm Introvert🤪**
+- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
 <h3>Speaks
 <br>English
