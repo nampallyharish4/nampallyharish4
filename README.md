@@ -19,7 +19,7 @@
 
 <br align="center">- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
-<h3>Speaks</h3>
+<h3 align="center">Speaks</h3>
 <br>English
 <br>Telugu
 <br>Hindi
