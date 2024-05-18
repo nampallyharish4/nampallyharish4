@@ -3,22 +3,21 @@
 <br><img align="left" alt="coding" width="900" src="coder.gif"><br>
 
 <p align="center"> <a href="https://twitter.com/nampallyharish6" target="_blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
-<h2 align="center">🔥Updates</h2>
-<h3 align="center">• 🌱 I’m currently learning
-<br align="center">∆ Full Stack Web Development
-<br align="center">∆ Prompt Engineering
-<br align="center">∆ Ethical Hacking
-<br align="center">∆ Data Science
-<br align="center">∆ MERN Stack
+<h2>🔥Updates</h2>
+<h3>• 🌱 I’m currently learning
+<br>∆ Full Stack Web Development
+<br>∆ Prompt Engineering
+<br>∆ Ethical Hacking
+<br>∆ Data Science
+<br>∆ MERN Stack
 <br>∆ AI & ML
 <br>∆ UI/UX Design
-<br>∆ Cloud Computing</h3>
 
-- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
+<br align="center">- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
 
-- 📫 You can dm me at **nampallyharish5544@gmail.com**
+<br align="center">- 📫 You can dm me at **nampallyharish5544@gmail.com**
 
-- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
+<br align="center">- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
 <h3>Speaks</h3>
 <br>English
