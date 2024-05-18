@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
-<h3>Speaks
+<p>Speaks
 <br>English
 <br>Telugu
 <br>Hindi
