@@ -25,7 +25,7 @@
 <br align="center">Hindi
 <h2 align="center">lets Connect 🤝</h2>
 <p align="center">
-<a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
+<a align="center" href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
 <a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
