@@ -5,11 +5,11 @@
 <p align="center"> <a href="https://twitter.com/nampallyharish6" target="_blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
 <h2 align="center">🔥Updates</h2>
 <h3 align="center">• 🌱 I’m currently learning
-<br>∆ Full Stack Web Development
-<br>∆ Prompt Engineering
-<br>∆ Ethical Hacking
-<br>∆ Data Science
-<br>∆ MERN Stack
+<br align="center">∆ Full Stack Web Development
+<br align="center">∆ Prompt Engineering
+<br align="center">∆ Ethical Hacking
+<br align="center">∆ Data Science
+<br align="center">∆ MERN Stack
 <br>∆ AI & ML
 <br>∆ UI/UX Design
 <br>∆ Cloud Computing</h3>
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
-<p>Speaks
+<h3>Speaks</h3>
 <br>English
 <br>Telugu
 <br>Hindi
