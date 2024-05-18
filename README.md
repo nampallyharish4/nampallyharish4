@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nampally Harish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><img align="left" alt="coding" width="900" src="coder.gif"><br>
-
 <p align="center"> <a href="https://twitter.com/nampallyharish6" target="_blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
 <h2 align="center">🔥Updates</h2>
 <h3 align="center">• 🌱 I’m currently learning
@@ -12,17 +11,9 @@
 <br>∆ Data Science
 <br>∆ MERN Stack
 <br>∆ AI & ML
-
 <br align="center">- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
-
 <br align="center">- 📫 You can dm me at **nampallyharish5544@gmail.com**
-
 <br align="center">- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
-
-<h2 align="center">Speaks</h2>
-<br align="center">English
-<br align="center">Telugu
-<br align="center">Hindi
 <h2 align="center">lets Connect 🤝</h2>
 <p align="center">
 <a align="center" href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
@@ -49,7 +40,5 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="canva.png" alt="canva" width="40" height="40"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nampallyharish4&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&locale=en" alt="Nampally-Harish" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nampallyharish4&" alt="Nampally-Harish" /></p>
