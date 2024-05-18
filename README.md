@@ -8,10 +8,10 @@
 <br>∆ Full Stack Web Development
 <br>∆ Prompt Engineering
 <br>∆ Ethical Hacking
+<br>∆ UI/UX Design
 <br>∆ Data Science
 <br>∆ MERN Stack
 <br>∆ AI & ML
-<br>∆ UI/UX Design
 
 <br align="center">- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
 
@@ -48,7 +48,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="oracle.png" alt="oracle" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="canva.png" alt="canva" width="40" height="40"/> </a>
 </p>
-</br> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nampallyharish4&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nampallyharish4&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&locale=en" alt="Nampally-Harish" /></p>
 
