@@ -30,8 +30,8 @@
 <a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
 <a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
 </p>
-<h1 align="left">Tech Stack💻</h1>
-<h3 align="left">Languages</h3>
+<h1 align="center">Tech Stack💻</h1>
+<h3 align="center">Languages</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="cpp.png" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css.png" alt="css3" width="40" height="40"/> </a>
@@ -39,7 +39,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java.png" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.png" alt="python" width="40" height="40"/> </a> </p>
-<h3 align="left">Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="android-studio.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="visual-studio-code.png" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="figma.png" alt="figma" width="40" height="40"/> </a>
@@ -48,7 +48,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="oracle.png" alt="oracle" width="40" height="40"/> </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="canva.png" alt="canva" width="40" height="40"/> </a>
 </p>
-</br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nampallyharish4&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
+</br> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nampallyharish4&show_icons=true&locale=en&layout=compact" alt="Nampally-Harish" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&locale=en" alt="Nampally-Harish" /></p>
 
