@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><img align="left" alt="coding" width="900" src="coder.gif"><br>
 
-<p align="left"> <a href="https://twitter.com/nampallyharish6" target="_blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
+<p align="center"> <a href="https://twitter.com/nampallyharish6" target="_blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
 <h2 align="center">🔥Updates</h2>
 <h3 align="center">• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
@@ -25,8 +25,8 @@
 <br>Telugu
 <br>Hindi
 <br>Tamil</h3>
-<h2 align="left">lets Connect 🤝</h>
-<p align="left">
+<h2 align="center">lets Connect 🤝</h>
+<p align="center">
 <a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
