@@ -3,8 +3,8 @@
 <br><img align="left" alt="coding" width="900" src="coder.gif"><br>
 
 <p align="left"> <a href="https://twitter.com/nampallyharish6" target="_blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
-<h2 align="left">🔥Updates</h2>
-<h3>• 🌱 I’m currently learning
+<h2 align="center">🔥Updates</h2>
+<h3 align="center">• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
 <br>∆ Prompt Engineering
 <br>∆ Ethical Hacking
