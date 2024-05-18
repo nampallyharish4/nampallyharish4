@@ -20,10 +20,9 @@
 <br align="center">- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
 <h3 align="center">Speaks</h3>
-<br>English
-<br>Telugu
-<br>Hindi
-<br>Tamil</h3>
+<br align="center">English
+<br align="center">Telugu
+<br align="center">Hindi
 <h2 align="center">lets Connect 🤝</h>
 <p align="center">
 <a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
