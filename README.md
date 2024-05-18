@@ -32,7 +32,7 @@
 </p>
 <h1 align="center">Tech Stack💻</h1>
 <h3 align="center">Languages</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c.svg" alt="c" width="40" height="40"/> </a> 
+<p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="cpp.png" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css.png" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html.png" alt="html5" width="40" height="40"/> </a>
