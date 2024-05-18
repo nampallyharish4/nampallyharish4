@@ -19,7 +19,7 @@
 
 <br align="center">- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
-<h3 align="center">Speaks</h3>
+<br align="center">Speaks
 <br align="center">English
 <br align="center">Telugu
 <br align="center">Hindi
@@ -40,7 +40,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.png" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="center">Tools</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="android-studio.svg" alt="android" width="40" height="40"/> </a>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="android-studio.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="visual-studio-code.png" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="figma.png" alt="figma" width="40" height="40"/> </a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="mysql.png" alt="mysql" width="40" height="40"/> </a>
