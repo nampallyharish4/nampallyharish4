@@ -16,14 +16,14 @@
 <br align="center">- ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 <h2 align="center">lets Connect 🤝</h2>
 <p align="center">
-<a align="center" href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
-<a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
+<a align="center" href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.png" alt="nampallyharish6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.png" alt="nampallyharish" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.png" alt="nampally harish" height="30" width="40" /></a>
+<a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.png" alt="__divine__monster_" height="30" width="40" /></a>
 </p>
 <h1 align="center">Tech Stack💻</h1>
 <h3 align="center">Languages</h3>
-<p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c.svg" alt="c" width="40" height="40"/> </a> 
+<p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c.png" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="cpp.png" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css.png" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html.png" alt="html5" width="40" height="40"/> </a>
