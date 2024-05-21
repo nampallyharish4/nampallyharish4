@@ -17,9 +17,9 @@
 <h2 align="center">lets Connect 🤝</h2>
 <p align="center">
 <a align="center" href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.png" alt="nampallyharish6" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.png" alt="nampallyharish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.png" alt="nampallyharish" height="30" width="35" /></a>
 <a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.png" alt="nampally harish" height="45" width="45" /></a>
-<a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.png" alt="__divine__monster_" height="30" width="40" /></a>
+<a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.png" alt="__divine__monster_" height="30" width="35" /></a>
 </p>
 <h1 align="center">Tech Stack💻</h1>
 <h3 align="center">Languages</h3>
