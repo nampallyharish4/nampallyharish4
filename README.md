@@ -27,7 +27,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m an Undergraduate student of JNTUH University <br>- 📚 I'm currently learning Full Stack Web Development<br>- ⚡ I use to code</p>
+<p align="center">- 🔭 I’m an Undergraduate student of JNTUH University <br>- 📚 I'm currently learning Full Stack Web Development<br>-</p>
 
 ###
 
