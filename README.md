@@ -105,8 +105,9 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nampallyharish4&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=nampallyharish4&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 </div>
+
 
 
 
