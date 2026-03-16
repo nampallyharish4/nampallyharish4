@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nampally%20Harish&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nampally%20Harish&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
@@ -202,11 +202,13 @@ I'm actively seeking **Software Engineer / Backend Developer / Java Full Stack D
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
 </div>
 
 <div align="center">
   
 ### ⭐ If you find my work interesting, consider starring my repositories!
+
+![](https://hit.yhype.me/github/profile?user_id=nampallyharish4)
 
 </div>
