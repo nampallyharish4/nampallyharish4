@@ -18,30 +18,21 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class Developer {
-    private String name = "Nampally Harish";
-    private String location = "Hyderabad, India";
-    private String education = "B.Tech - JNTUH College of Engineering";
-    private String role = "Java Full Stack Developer";
-    
-    private String[] expertise = {
-        "Building scalable backend systems with Spring Boot",
-        "Designing RESTful APIs and Microservices",
-        "Creating responsive frontends with React",
-        "Optimizing database performance (MySQL, MongoDB)"
-    };
-    
-    public String getCurrentFocus() {
-        return "Seeking Software Engineer / Backend Developer roles where I can " +
-               "contribute to production systems and learn from experienced teams.";
-    }
-}
-```
+**Full Stack Developer** specializing in Java and Spring Boot ecosystem, building scalable backend systems and responsive frontend applications.
 
-🎯 **Passionate about:** Performance optimization, clean architecture, and building production-ready applications  
-🌱 **Currently learning:** Docker, Kubernetes, AWS Cloud Services, System Design  
-💡 **Recent Achievement:** Reduced API response time from 800ms to 150ms through query optimization  
+🎓 **Education:** B.Tech - JNTUH College of Engineering, Hyderabad  
+📍 **Location:** Hyderabad, India  
+💼 **Current Focus:** Seeking Software Engineer / Backend Developer roles
+
+### What I Do Best:
+- ✅ Building scalable backend systems with **Spring Boot** and **Microservices**
+- ✅ Designing **RESTful APIs** with optimal performance and security
+- ✅ Creating responsive frontends with **React** and modern JavaScript
+- ✅ Optimizing database performance with **MySQL** and **MongoDB**
+- ✅ Implementing authentication systems with **Spring Security** and JWT
+
+🎯 **Recent Achievement:** Reduced API response time from 800ms to 150ms through query optimization and indexing strategies  
+🌱 **Currently Learning:** Docker, Kubernetes, AWS Cloud Services, Advanced System Design  
 
 ---
 
@@ -159,18 +150,32 @@ Reusable Spring Boot template with JWT authentication, role-based authorization,
 
 ---
 
-## 💼 What I'm Working On
+## 💼 Current Learning Path
 
-```java
-// Current Focus Areas (2024-2025)
-String[] currentGoals = {
-    "🔍 Mastering Docker and Kubernetes for container orchestration",
-    "☁️ Learning AWS services (EC2, S3, Lambda, RDS) for cloud deployment",
-    "🏗️ Deepening System Design knowledge (CAP theorem, load balancing, caching)",
-    "🧪 Implementing comprehensive testing strategies (JUnit, Mockito, Integration Tests)",
-    "📚 Contributing to open-source Spring Boot projects"
-};
-```
+### 🎯 2024-2025 Focus Areas
+
+**🔍 Containerization & Orchestration**
+- Mastering Docker for containerization and multi-stage builds
+- Learning Kubernetes for container orchestration at scale
+
+**☁️ Cloud Technologies**
+- AWS services: EC2, S3, Lambda, RDS, CloudWatch
+- Deploying Spring Boot applications on cloud platforms
+- Understanding cloud-native architecture patterns
+
+**🏗️ System Design & Architecture**
+- CAP theorem and distributed systems concepts
+- Load balancing strategies and caching mechanisms
+- Database sharding and replication patterns
+
+**🧪 Testing & Quality**
+- Unit testing with JUnit and Mockito
+- Integration testing for REST APIs
+- Test-driven development (TDD) practices
+
+**🌟 Open Source Contribution**
+- Contributing to Spring Boot ecosystem projects
+- Building reusable libraries and templates
 
 ---
 
@@ -202,6 +207,6 @@ I'm actively seeking **Software Engineer / Backend Developer / Java Full Stack D
 
 <div align="center">
   
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ If you find my work interesting, consider starring my repositories!
 
 </div>
