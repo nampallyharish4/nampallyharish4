@@ -192,7 +192,7 @@ I'm actively seeking **Software Engineer / Backend Developer / Java Full Stack D
 ### 📬 Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nampallyharish4/)
-[![Email](https://img.shields.io/badge/Email-nampallyharish76@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nampallyharish76@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nampallyharish5544@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nampallyharish76@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nampallyharish4)
 
 **💬 Open to discussing:** Java, Spring Boot, Microservices, System Design, or tech in general!
