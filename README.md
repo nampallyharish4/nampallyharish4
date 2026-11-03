@@ -108,10 +108,10 @@ Full write-ups, architecture notes and live demos.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampallyharish4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampallyharish4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nampallyharish4&theme=tokyonight&hide_border=true" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=nampallyharish4&theme=tokyonight&hide_border=true" />
 
 </div>
 
