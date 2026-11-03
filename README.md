@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nampally%20Harish&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Java%20Backend%20%26%20Full%20Stack%20Developer&descSize=20&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nampally%20Harish&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Nampally Harish" />
+
+### Java Backend & Full Stack Developer
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Java+17+%7C+Spring+Boot+%7C+Microservices;REST+APIs+%7C+JPA+%2F+Hibernate+%7C+PostgreSQL;Docker+%7C+GitHub+Actions+%7C+AWS;Open+to+SDE+roles+in+Hyderabad%2C+Bangalore%2C+Chennai+%26+remote" alt="Typing SVG" /></a>
 
@@ -108,10 +110,10 @@ Full write-ups, architecture notes and live demos.
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampallyharish4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=nampallyharish4&theme=tokyonight&hide_border=true" />
+<img width="49%" alt="GitHub stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="49%" alt="Most used languages" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img width="49%" alt="Repos per language" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" alt="Profile details" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 </div>
 
