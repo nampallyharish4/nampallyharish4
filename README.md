@@ -1,214 +1,135 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nampally%20Harish&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
-</div>
 
-<div align="center">
-  
-# 💻 Java Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nampally%20Harish&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Java%20Backend%20%26%20Full%20Stack%20Developer&descSize=20&descAlignY=58" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Java+17+%7C+Spring+Boot+%7C+Microservices;REST+APIs+%7C+JPA+%2F+Hibernate+%7C+PostgreSQL;Docker+%7C+GitHub+Actions+%7C+AWS;Open+to+SDE+roles+in+Hyderabad%2C+Bangalore%2C+Chennai+%26+remote" alt="Typing SVG" /></a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=netlify&logoColor=38BDF8)](https://nampally-harish-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nampallyharish4/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nampallyharish76@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nampallyharish4&color=brightgreen&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nampallyharish76@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-**Full Stack Developer** specializing in Java and Spring Boot ecosystem, building scalable backend systems and responsive frontend applications.
+I'm a 2025 Computer Science graduate (B.Tech, JNTUH University College of Engineering, Rajanna Sircilla) based in Hyderabad. I build Java backends with Spring Boot, and I've finished a six-month SDE internship at Codegnan IT Solutions.
 
-🎓 **Education:** B.Tech - JNTUH College of Engineering, Hyderabad  
-📍 **Location:** Hyderabad, India  
-💼 **Current Focus:** Seeking Software Engineer / Backend Developer roles
-
-### What I Do Best:
-- ✅ Building scalable backend systems with **Spring Boot** and **Microservices**
-- ✅ Designing **RESTful APIs** with optimal performance and security
-- ✅ Creating responsive frontends with **React** and modern JavaScript
-- ✅ Optimizing database performance with **MySQL** and **MongoDB**
-- ✅ Implementing authentication systems with **Spring Security** and JWT
-
-🎯 **Recent Achievement:** Reduced API response time from 800ms to 150ms through query optimization and indexing strategies  
-🌱 **Currently Learning:** Docker, Kubernetes, AWS Cloud Services, Advanced System Design  
+- 🔧 Backend: REST APIs, JWT auth with role-based access, JPA query tuning
+- 🧱 Architecture: Spring Boot microservices with PostgreSQL, MySQL and MongoDB
+- ☁️ Delivery: Docker, GitHub Actions CI/CD, deployments on AWS
+- 🎯 Looking for: Java Backend / Full Stack Developer or Associate Software Engineer roles
 
 ---
 
-## 🛠️ Technical Arsenal
-
-### **Backend Development**
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-</div>
-
-### **Frontend Development**
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
-
-### **Database & Caching**
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-### **DevOps & Tools**
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 [E-Commerce Platform](https://github.com/nampallyharish4/ecommerce-platform)
-**Full Stack Web Application | Spring Boot + React**
-
-Built a production-ready e-commerce platform with complete CRUD operations, JWT authentication, and payment integration.
-
-**🔧 Tech Stack:** Java 17, Spring Boot, Spring Security, JPA/Hibernate, MySQL, React, Redux  
-**📊 Key Features:**
-- JWT-based authentication with role-based access control (Admin, Customer, Vendor)
-- RESTful API with 15+ endpoints for product catalog, cart, and order management
-- MySQL database with optimized queries (reduced search time from 800ms → 150ms)
-- Responsive React UI with Redux state management
-- Docker containerization for deployment
-
-**💡 Impact:** Handled 500+ concurrent users in load testing | 99.5% uptime
-
----
-
-### 📋 [Task Management System](https://github.com/nampallyharish4/task-manager)
-**Microservices Architecture | Spring Boot Backends**
-
-Developed a distributed task management system demonstrating microservices patterns and service isolation.
-
-**🔧 Tech Stack:** Spring Boot, Microservices, MySQL, MongoDB, React, Docker Compose  
-**📊 Key Features:**
-- 3-tier microservices architecture (User Service, Task Service, Notification Service)
-- Polyglot persistence (MySQL for users, MongoDB for tasks)
-- Role-based access control (Admin, Manager, Member)
-- Real-time task updates with WebSocket integration
-- Centralized logging and error handling
-
-**💡 Impact:** Average API response time of 180ms | Scalable to 1000+ concurrent users
-
----
-
-### 🔐 [Spring Security JWT Template](https://github.com/nampallyharish4/spring-security-jwt)
-**Backend Starter Template | Authentication Boilerplate**
-
-Reusable Spring Boot template with JWT authentication, role-based authorization, and refresh token mechanism.
-
-**🔧 Tech Stack:** Spring Boot, Spring Security, JWT, MySQL, JPA  
-**📊 Key Features:**
-- Secure JWT token generation and validation
-- Refresh token mechanism for session management
-- Custom exception handling for security failures
-- Password encryption with BCrypt
-- Ready-to-use REST endpoints for authentication
-
----
-
-## 📈 GitHub Analytics
+## Tech Stack
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nampallyharish4&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampallyharish4&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nampallyharish4&theme=react-dark&hide_border=true&area=true" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,nodejs,ts,js,html,css&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,github,githubactions,git,postman,py&perline=10" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Orderly Table
+Restaurant management system on Spring Boot microservices.
+
+- JWT authentication with role-based access control
+- Response time cut from ~280 ms to ~112 ms
+- ~75–80% JUnit test coverage
+
+`Java` `Spring Boot` `Microservices` `JWT` `JUnit`
+
+[**Repository →**](https://github.com/nampallyharish4/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Cafe POS
+Full-stack billing and inventory system for a cafe.
+
+- JPA optimization cut API latency by about 54%
+- Deployed on AWS with a CI/CD pipeline
+
+`Java` `Spring Boot` `JPA` `AWS` `CI/CD`
+
+[**Repository →**](https://github.com/nampallyharish4/REPO-NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ChefMate
+AI recipe platform that uses OpenAI GPT-4o.
+
+- PostgreSQL for structured data, MongoDB for flexible recipe content
+- Hosted on AWS EC2
+
+`Java` `GPT-4o` `PostgreSQL` `MongoDB` `AWS EC2`
+
+[**Repository →**](https://github.com/nampallyharish4/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 📌 More on my portfolio
+Full write-ups, architecture notes and live demos.
+
+[**nampally-harish-portfolio.netlify.app →**](https://nampally-harish-portfolio.netlify.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Certifications
+
+![Oracle](https://img.shields.io/badge/Oracle-Generative_AI_Professional_2025-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Harvard](https://img.shields.io/badge/Harvard-CS50_Databases_with_SQL_2024-A51C30?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Arcade_Legend-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Student_Expert_2024-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nampallyharish4&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nampallyharish4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampallyharish4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nampallyharish4&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## 💼 Current Learning Path
+## Currently Working On
 
-### 🎯 2024-2025 Focus Areas
-
-**🔍 Containerization & Orchestration**
-- Mastering Docker for containerization and multi-stage builds
-- Learning Kubernetes for container orchestration at scale
-
-**☁️ Cloud Technologies**
-- AWS services: EC2, S3, Lambda, RDS, CloudWatch
-- Deploying Spring Boot applications on cloud platforms
-- Understanding cloud-native architecture patterns
-
-**🏗️ System Design & Architecture**
-- CAP theorem and distributed systems concepts
-- Load balancing strategies and caching mechanisms
-- Database sharding and replication patterns
-
-**🧪 Testing & Quality**
-- Unit testing with JUnit and Mockito
+- Kubernetes and deeper AWS (Lambda, RDS, CloudWatch)
+- System design: caching, load balancing, replication
 - Integration testing for REST APIs
-- Test-driven development (TDD) practices
-
-**🌟 Open Source Contribution**
-- Contributing to Spring Boot ecosystem projects
-- Building reusable libraries and templates
-
----
-
-## 🤝 Let's Connect!
-
-I'm actively seeking **Software Engineer / Backend Developer / Java Full Stack Developer** roles where I can:
-- ✅ Build scalable, high-performance backend systems
-- ✅ Work with modern tech stacks (Spring Boot, Microservices, Cloud)
-- ✅ Collaborate with experienced engineering teams
-- ✅ Contribute to products that impact millions of users
-
-<div align="center">
-
-### 📬 Reach Out
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nampallyharish4/)
-[![Email](https://img.shields.io/badge/Email-nampallyharish5544@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nampallyharish76@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nampallyharish4)
-
-**💬 Open to discussing:** Java, Spring Boot, Microservices, System Design, or tech in general!
-
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
-</div>
 
-<div align="center">
-  
-### ⭐ If you find my work interesting, consider starring my repositories!
+**Open to roles in Hyderabad, Bangalore, Chennai and remote.**
+Best way to reach me is [LinkedIn](https://www.linkedin.com/in/nampallyharish4/) or [email](mailto:nampallyharish76@gmail.com).
 
-![](https://hit.yhype.me/github/profile?user_id=nampallyharish4)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 
 </div>
